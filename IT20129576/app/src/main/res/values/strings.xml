@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IT20129576</string>
+    <string name="tv_num1">Number1</string>
+    <string name="tv_num2">Number2</string>
+    <string name="et_n1" />
+    <string name="et_n2" />
+    <string name="btn_ok">OK</string>
+    <string name="number1">Number1</string>
+    <string name="tv_answer" />
+    <string name="btn_add">+</string>
+    <string name="btn_subtract">-</string>
+    <string name="btn_multiply">X</string>
+    <string name="btn_divide">/</string>
+    <string name="et_toast">Open Calculator</string>
+</resources>
